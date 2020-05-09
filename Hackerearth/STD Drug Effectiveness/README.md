@@ -1,5 +1,5 @@
 # Data Screenshot
-
+<img src="images/data_screenshot" width="700"/>
 
 
 # A description of my methodology
