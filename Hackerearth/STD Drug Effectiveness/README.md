@@ -20,3 +20,8 @@
 2. sklearn and numpy libraries for methodology
 3. lightgbm library for the final model
 4. matplotlib and seaborn was used for plotting and analyzing the data
+
+
+# Competition Details
+1. Rank: 5th
+2. [Link to leaderboard](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-std-drug-effectiveness/leaderboard/effectiveness-of-std-drugs-cc3e4cc9/)
