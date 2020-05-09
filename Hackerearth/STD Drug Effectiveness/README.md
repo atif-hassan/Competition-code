@@ -2,9 +2,9 @@
 <img src="images/data_screenshot.png" width="800"/>
 
 
-# A description of my methodology
+# A Description of my Methodology
 
-### Feature engineering & approach
+### Feature Engineering & Approach
 
 1. An initial k-fold cross validation of the numeric features were performed to find feature importance
 2. Features "effectiveness_rating" and "number_of_times_prescribed" were found to be the most important
