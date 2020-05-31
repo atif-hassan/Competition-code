@@ -23,6 +23,6 @@
 
 
 # Competition Result
-1. Rank: 5th
+1. Rank: **3rd** on public LB and **5th** on private LB
 2. [Link to leaderboard](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-std-drug-effectiveness/leaderboard/effectiveness-of-std-drugs-cc3e4cc9/)
 3. [Blog post describing my approach in detail](https://towardsdatascience.com/how-to-achieve-a-quick-accurate-baseline-for-ml-competitions-11b7ae29b673)
