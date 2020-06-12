@@ -17,4 +17,4 @@ I treated this competition as an aspect-based extraction problem. My approach ca
 # Competition Result
 1. Rank: 1st
 2. [Link to leaderboard](https://www.machinehack.com/course/used-electronics-price-prediction-weekend-hackathon-7/leaderboard)
-3. [Analytics India Magazine published an article of the top 3 winners](#)
+3. [Analytics India Magazine published an article of the top 3 winners](https://analyticsindiamag.com/meet-the-machinehack-champions-who-cracked-the-used-electronics-price-prediction-hackathon/)
