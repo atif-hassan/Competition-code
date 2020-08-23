@@ -14,5 +14,5 @@
 
 
 # Competition Result
-1. Rank: **1st** on public LB and **1st** on private LB
+1. Rank: **1st** on public LB and -- on private LB
 2. [Link to leaderboard](https://datahack.analyticsvidhya.com/contest/janatahack-independence-day-2020-ml-hackathon/#LeaderBoard)
