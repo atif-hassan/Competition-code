@@ -12,7 +12,7 @@
 1. Python for programming
 2. sklearn, tensorflow, keras, numpy, huggingface, lightgbm libraries used
 
-### Team Name: CodeEmPotatoChips ([Sayantan Basu](https://www.linkedin.com/in/sayantan-basu-a29861a1) & Atif Hassan with Special thanks to [Devrup](https://www.linkedin.com/in/devrup-b-7b2423107/))
+### Team Name: CodeEmPotatoChips ([Sayantan Basu](https://www.linkedin.com/in/sayantan-basu-a29861a1) & Atif Hassan with Special thanks to [Devrup Banerjee](https://www.linkedin.com/in/devrup-b-7b2423107/))
 
 # Competition Result
 1. Rank: **1st** on public LB and ** ** on private LB
