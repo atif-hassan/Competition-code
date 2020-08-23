@@ -3,7 +3,6 @@
 
 
 # A Description of my Methodology
-
 ### Full Methodology
 <img src="Images/JantaHack_Independence_Day_Solution.png" width="800"/>
 
