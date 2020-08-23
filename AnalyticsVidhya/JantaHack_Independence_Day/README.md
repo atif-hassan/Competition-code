@@ -2,7 +2,7 @@
 <img src="Images/Screenshot.png" width="1000"/>
 
 
-# A Description of my Methodology
+# A Description of our Methodology
 ### Full Methodology
 <img src="Images/JantaHack_Independence_Day_Solution.png" width="800"/>
 
