@@ -15,6 +15,8 @@ The basic idea is to develop a single Neural Network model and then blend its pr
 Each categorical variable was represented by an embedding layer and a basic lightgbm model's probabilities were stacked (added as features to the NN model).
 Very little feature engineering has been performed in this competition though A "super" feature that really worked was finding the co-occurrence matrix of patient_id vs hospital_code. Basically this tells us the frequency of the different hospitals that have been visited by different groups of patients.
 
+All the features were used to calculate the oof probabilities using 10-fold cross validation on fine tuned lgbm. This gave a score of 43.53 on leaderboard. The entire test data was also sent to the model to generate probabilities. These two probability results were blended using 90%-10% weightage. The overall accuracy of lgbm model got increased to 43.54%. The resulting probabilities from lgbm were blended with the neural network probabilities generated. This increased our accuracy to 44.108%, booking the 5th spot on the leaderboard.
+
 
 ### Tools used
 1. Python for programming
