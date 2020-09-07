@@ -20,8 +20,8 @@ Very little feature engineering has been performed in this competition though A 
 1. Python for programming
 2. sklearn, tensorflow, keras, numpy, huggingface, lightgbm libraries used
 
-### Team Name: CodeEmPotatoChips ([Ankita Chatterjee](https://www.linkedin.com/in/) & Atif Hassan)
+### Team Name: CodeEmPotatoChips ([Ankita Chatterjee](https://www.linkedin.com/in/ankita-chatterjee-8367051b3) & Atif Hassan)
 
 # Competition Result
-1. Rank: **5th** on public LB and ** ** on private LB
+1. Rank: **5th** on public LB and **9th** on private LB
 2. [Link to leaderboard](https://datahack.analyticsvidhya.com/contest/janatahack-healthcare-analytics-ii/#LeaderBoard)
