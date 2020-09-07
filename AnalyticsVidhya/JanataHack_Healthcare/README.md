@@ -20,7 +20,7 @@ All the features were used to calculate the oof probabilities using 10-fold cros
 
 ### Tools used
 1. Python for programming
-2. sklearn, tensorflow, keras, numpy, huggingface, lightgbm libraries used
+2. sklearn, tensorflow, keras, numpy, lightgbm libraries used
 
 ### Team Name: CodeEmPotatoChips ([Ankita Chatterjee](https://www.linkedin.com/in/ankita-chatterjee-8367051b3) & Atif Hassan)
 
