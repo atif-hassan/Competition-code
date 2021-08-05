@@ -12,7 +12,7 @@ Classify products into their respective browse node ids. There are 9K+ classes a
 ### Feature Engineering & Approach
 
 1. The data was too large so we made a simple train-test split for our validation
-2. Standard handcrafted features such as number of words, number sentences, number of adjectives, number of stopwords, etc. were generated. Reason for generating such features is for example, people in the clothing industry might use more industries to describe their product when compared to the toy industry. 
+2. Standard handcrafted features such as number of words, number sentences, number of adjectives, number of stopwords, etc. were generated. Reason for generating such features is for example, people in the clothing industry might use more words to describe their product when compared to the toy industry. 
 3. Generated sparse TF-IDF and Count vectors
 4. Generate Dense Document vectors from small transformer
 5. Concatenate 1, 3 and 4 together and pass through different multi-layered perceptrons. Each MLP is 3 hidden-layer network trained for a single epoch.
