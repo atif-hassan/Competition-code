@@ -3,7 +3,7 @@
 
 
 # A Description of our Methodology
-<img src="images/Amazon_ML_Challenge.png" width="800"/>
+<img src="images/Amazon_ML_Challenge.jpg" width="800"/>
 
 ### Feature Engineering & Approach
 
